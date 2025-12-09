@@ -1,0 +1,28 @@
+# Task List
+
+-   [ ] **Project Refactoring**
+    -   [x] Update `sp.specify.md` with new book topic.
+    -   [x] Update `sp.plan.md` with new plan.
+    -   [ ] Update `sp.tasks.md`.
+    -   [ ] Update `docusaurus.config.ts` with new metadata.
+    -   [ ] Delete old chapter files from `docs/`.
+-   [ ] **Chapter Generation (New Topic)**
+    -   [ ] Write Chapter 1: Introduction to Humanoid Robotics
+    -   [ ] Write Chapter 2: The Hardware of a Humanoid
+    -   [ ] Write Chapter 3: The AI Brain
+    -   [ ] Write Chapter 4: The Challenge of Bipedal Motion
+    -   [ ] Write Chapter 5: Human-Robot Interaction
+    -   [ ] Write Chapter 6: A Tour of Modern Humanoids
+    -   [ ] Write Chapter 7: The Future and Ethics of Humanoid Robotics
+-   [ ] **Integration & Configuration**
+    -   [ ] Update `sidebars.ts` with the new chapter IDs.
+    -   [ ] Run the local development server (`npm run start`) to test the site.
+-   [ ] **Deployment**
+    -   [ ] Initialize a new Git repository (`git init`).
+    -   [ ] Add and commit all project files.
+    -   [ ] Create a new public repository on GitHub.
+    -   [ ] Add the GitHub repository as a remote origin.
+    -   [ ] Push the initial commit to the remote repository.
+    -   [ ] Run the Docusaurus deployment command (`npm run deploy`).
+-   [ ] **Final Verification**
+    -   [ ] Verify the website is accessible at the public GitHub Pages URL.

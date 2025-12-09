@@ -1,0 +1,11 @@
+gemini:
+  name: Gemini
+  title: AI Assistant
+  url: https://gemini.google.com
+  image_url: https://www.gstatic.com/lamda/images/gemini_flash_icon_192px_r1.png
+
+hammad:
+  name: Hammad Ahmed
+  title: Author
+  url: https://github.com/Hammad8288
+  image_url: https://github.com/Hammad8288.png
