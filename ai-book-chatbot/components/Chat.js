@@ -37,7 +37,7 @@ export default function Chat() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/api/ask', {
+      const response = await fetch('https://hackathon-04-bzjn.vercel.app/api/ask', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
